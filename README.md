@@ -10,7 +10,7 @@ are visually appealing<br>
 ##What I can't fit on my CV
 
  My main languages:
- HTML CSS JavaScript PHP MySQL
+ :purple_circle:HTML :purple_circle:CSS JavaScript PHP MySQL
  
  Databases I've worked with:
  MySQLDBMS, MongoDB
