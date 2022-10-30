@@ -4,7 +4,7 @@
 :large_blue_circle: Currently operating freelance<br>
 :large_blue_circle: On the job hunt (Painfully long LOL)<br>
 :large_blue_circle: I'm good at both front and backend<br>
-:large_blue_circle: Real massive with from end design! I love things that<br>
+:large_blue_circle: Real massive with frontend design! I love things that<br>
 are visually appealing<br>
 
 What I can't fit on my CV :joy:
