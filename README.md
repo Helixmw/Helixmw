@@ -1,4 +1,4 @@
-### Welcome To My Git Page! 👋
+### Welcome To My Git Page! (by yours truly) 👋 :joy:
 
 :large_blue_circle: I'm a Web Software Engineer from Blantyre, Malawi<br>
 :large_blue_circle: Currently operating freelance<br>
@@ -7,19 +7,19 @@
 :large_blue_circle: Real massive with from end design! I love things that<br>
 are visually appealing<br>
 
-##What I can't fit on my CV
+###What I can't fit on my CV :joy:
 
  My main languages:
- :purple_circle: HTML :purple_circle: CSS JavaScript PHP MySQL
+ :large_blue_circle: HTML :large_blue_circle: CSS :large_blue_circle: JavaScript :large_blue_circle: PHP :large_blue_circle: MySQL
  
  Databases I've worked with:
- MySQLDBMS, MongoDB
+:large_blue_circle: MySQLDBMS, :large_blue_circle: MongoDB
  
  Frameworks I work with:
- Nodejs,Vuejs,Express,Laravel,Bootstrap,TailWindCSS
+ :large_blue_circle: Nodejs, :large_blue_circle: Vuejs, :large_blue_circle:Express, :large_blue_circle:Laravel, :large_blue_circle: Bootstrap, :large_blue_circle: TailWindCSS
  
- Add-ons to Vue I've experimented with :
- Electronjs and Ionic
+ Add-ons to Vue I've experimented with :joy:
+ :large_blue_circle: Electronjs and :large_blue_circle: Ionic
  
  
 
