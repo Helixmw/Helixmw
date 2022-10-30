@@ -7,6 +7,11 @@
 :large_blue_circle: Real massive with from end design! I love things that
 are visually appealing
 
-<img src="/images/Bootstrap_logo.svg"><img src="/images/Bootstrap_logo.svg">
+<img src="/images/HTML5_logo_and_wordmark.svg">
+<img src="/images/CSS3_logo_and_wordmark.svg">
+<img src="/images/js.png">
+<img src="/images/PHP-logo.svg">
+
+<img src="/images/Bootstrap_logo.svg">
  
 
