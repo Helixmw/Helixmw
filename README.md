@@ -1,4 +1,4 @@
-### Welcome To My Git Page! (by yours truly) 👋 :joy:
+### Welcome To My GitHub Page! (by yours truly) 👋 :joy:
 
 :large_blue_circle: I'm a Web Software Engineer from Blantyre, Malawi<br>
 :large_blue_circle: Currently operating freelance<br>
