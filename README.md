@@ -1,10 +1,6 @@
-# Hie I'm Helix! 👋 Welcome to My Page
+# Hie! 👋 I'm Helix
 
-:large_blue_circle: I'm a Web Software Engineer from Blantyre, Malawi<br>
-:large_blue_circle: Currently operating freelance<br>
-:large_blue_circle: I'm good at both front and backend<br>
-:large_blue_circle: Real massive with frontend design! I love things that<br>
-are visually appealing<br>
+:large_blue_circle: Software Engineer and Fullstack Developer from Blantyre, Malawi 🇲🇼<br>
 
 What I can't fit on my CV :joy:
 
