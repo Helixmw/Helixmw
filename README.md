@@ -5,7 +5,7 @@
 What I can't fit on my CV :joy:
 
  My main languages:<br>
- :large_blue_circle: HTML :large_blue_circle: CSS :large_blue_circle: JavaScript :large_blue_circle: PHP :large_blue_circle: MySQL
+ :large_blue_circle: HTML :large_blue_circle: CSS :large_blue_circle: JavaScript :large_blue_circle: PHP :large_blue_circle: MySQL :large_blue_circle: C#
  
  Databases I've worked with:<br>
 :large_blue_circle: MySQLDBMS, :large_blue_circle: MongoDB
