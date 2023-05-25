@@ -8,7 +8,7 @@ What I can't fit on my CV :joy:
  :large_blue_circle: JavaScript :large_blue_circle: PHP :large_blue_circle: C#
 
  Design and Markup:<br>
- :large_blue_circle: HTML :large_blue_circle: CSS :large_blue_circle: XAML :large_blue_circle: Bootstrap, :large_blue_circle: TailWindCSS
+ :large_blue_circle: HTML :large_blue_circle: CSS :large_blue_circle: XAML :large_blue_circle: Bootstrap :large_blue_circle: TailWindCSS
  
  Databases:<br>
 :large_blue_circle: MySQL :large_blue_circle: SQL :large_blue_circle: MongoDB
