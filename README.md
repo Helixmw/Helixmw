@@ -9,13 +9,6 @@ What I can't fit on my CV :joy:
     <img src="images/js.png" height="50">&nbsp;
      <img src="images/C.png" height="53">&nbsp;
   
-
- Design and Markup:<br><br>
- <img src="images/HTML.svg" height="62">&nbsp;
- <img src="images/CSS.svg" height="62">&nbsp;
- <img src="images/Bootstrap.svg" height="50">&nbsp;
-
- 
  Frameworks:
  <br>
  <br>
@@ -25,14 +18,17 @@ What I can't fit on my CV :joy:
  <img src="images/NET.svg" height="50">&nbsp;
   <img src="images/Expressjs.png" height="50">&nbsp;
 
-
- 
  
  Add-ons to Vue I've tested:
  <br>
  <br>
    <img src="images/Electron.svg" height="50">&nbsp;
      <img src="images/Ionic.svg" height="50">&nbsp;
+
+ Design and Markup:<br><br>
+ <img src="images/HTML.svg" height="62">&nbsp;
+ <img src="images/CSS.svg" height="62">&nbsp;
+ <img src="images/Bootstrap.svg" height="50">&nbsp;
 
   
  
