@@ -19,7 +19,7 @@ What I can't fit on my CV :joy:
 
  
  
- Add-ons to Vue I've experimented with :joy:<br>
+ Add-ons to Vue I've experimented with<br>
  :large_blue_circle: ElectronJs and :large_blue_circle: Ionic
  
  
