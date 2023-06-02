@@ -1,4 +1,4 @@
-# Hie! 👋 I'm Helix
+# Hie! 👋 My Name is Helix Chipofya
 
 :large_blue_circle: Software Engineer and Fullstack Developer from Blantyre, Malawi 🇲🇼<br>
 
