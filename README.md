@@ -15,12 +15,15 @@ What I can't fit on my CV :joy:
  <img src="images/Bootstrap.svg" height="50">&nbsp;
 
  
- Frameworks I work with:<br>
+ Frameworks I work with:
+ <br>
+ <br>
  <img src="images/Nodejs.svg" height="50">&nbsp;
  <img src="images/vue.png" height="50">&nbsp;
  <img src="images/Expressjs.png" height="50">&nbsp;
- :large_blue_circle:Laravel,
- :large_blue_circle: .NET
+ <img src="images/Laravel.svg" height="50">&nbsp;
+ <img src="images/NET.svg" height="50">&nbsp;
+
 
  
  
