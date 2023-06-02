@@ -5,8 +5,8 @@
 What I can't fit on my CV :joy:
 
  Programming languages:<br><br>
-    <img src="images/js.png" height="50">&nbsp;
     <img src="images/PHP-logo.svg" height="50">&nbsp;
+    <img src="images/js.png" height="50">&nbsp;
   
 
  Design and Markup:<br><br>
@@ -14,8 +14,11 @@ What I can't fit on my CV :joy:
  <img src="images/CSS.svg" height="62">&nbsp;
  <img src="images/Bootstrap.svg" height="50">&nbsp;
 
- Databases:<br>
-:large_blue_circle: MySQL :large_blue_circle: SQL :large_blue_circle: MongoDB
+ Databases:<br><br>
+
+ <img src="images/MySQL.svg" height="50">&nbsp;
+<img src="images/MongoDB.svg" height="50">&nbsp;
+
  
  Frameworks I work with:<br>
  :large_blue_circle: Nodejs, :large_blue_circle: Vuejs, :large_blue_circle:Express, :large_blue_circle:Laravel,
