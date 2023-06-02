@@ -7,12 +7,13 @@ What I can't fit on my CV :joy:
  Programming languages:<br><br>
     <img src="images/js.png" height="50">&nbsp;
     <img src="images/PHP-logo.svg" height="50">&nbsp;
-    <img src="images/C--4.svg" height="50">
- :large_blue_circle: JavaScript :large_blue_circle: PHP :large_blue_circle: C#
+  
 
- Design and Markup:<br>
- :large_blue_circle: HTML :large_blue_circle: CSS :large_blue_circle: XAML :large_blue_circle: Bootstrap :large_blue_circle: TailWindCSS
- 
+ Design and Markup:<br><br>
+ <img src="images/HTML.svg" height="50">&nbsp;
+ <img src="images/CSS.svg" height="50">&nbsp;
+ <img src="images/Bootstrap.svg" height="50">&nbsp;
+
  Databases:<br>
 :large_blue_circle: MySQL :large_blue_circle: SQL :large_blue_circle: MongoDB
  
