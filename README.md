@@ -7,7 +7,7 @@ What I can't fit on my CV :joy:
  Programming languages:<br><br>
     <img src="images/PHP-logo.svg" height="50">&nbsp;
     <img src="images/js.png" height="50">&nbsp;
-     <img src="images/C#.png" height="50">&nbsp;
+     <img src="images/C.png" height="50">&nbsp;
   
 
  Design and Markup:<br><br>
