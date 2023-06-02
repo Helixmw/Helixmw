@@ -5,6 +5,7 @@
 What I can't fit on my CV :joy:
 
  Programming languages:<br>
+ ![](images/js.png)
  :large_blue_circle: JavaScript :large_blue_circle: PHP :large_blue_circle: C#
 
  Design and Markup:<br>
