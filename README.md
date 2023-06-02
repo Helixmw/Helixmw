@@ -14,14 +14,12 @@ What I can't fit on my CV :joy:
  <img src="images/CSS.svg" height="62">&nbsp;
  <img src="images/Bootstrap.svg" height="50">&nbsp;
 
- Databases:<br><br>
-
- <img src="images/MySQL.svg" height="50">&nbsp;
-<img src="images/MongoDB.svg" height="50">&nbsp;
-
  
  Frameworks I work with:<br>
- :large_blue_circle: Nodejs, :large_blue_circle: Vuejs, :large_blue_circle:Express, :large_blue_circle:Laravel,
+ <img src="images/Nodejs.svg" height="50">&nbsp;
+ <img src="images/vue.png" height="50">&nbsp;
+ <img src="images/Expressjs.png" height="50">&nbsp;
+ :large_blue_circle:Laravel,
  :large_blue_circle: .NET
 
  
