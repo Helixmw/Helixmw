@@ -4,10 +4,10 @@
 
 What I can't fit on my CV :joy:
 
- Programming languages:<br>
-    <img src="images/js.png" height="50">
-    <img src="images/PHP-logo.svg" height="50">
-    <img src="images/js.png" height="50">
+ Programming languages:<br><br>
+    <img src="images/js.png" height="50">&nbsp;
+    <img src="images/PHP-logo.svg" height="50">&nbsp;
+    <img src="images/C--4.svg" height="50">
  :large_blue_circle: JavaScript :large_blue_circle: PHP :large_blue_circle: C#
 
  Design and Markup:<br>
