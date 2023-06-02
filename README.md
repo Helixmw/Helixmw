@@ -5,7 +5,7 @@
 What I can't fit on my CV :joy:
 
  Programming languages:<br>
-    <img src="images/js.png" height="30">
+    <img src="images/js.png" height="50">
  :large_blue_circle: JavaScript :large_blue_circle: PHP :large_blue_circle: C#
 
  Design and Markup:<br>
