@@ -10,8 +10,8 @@ What I can't fit on my CV :joy:
   
 
  Design and Markup:<br><br>
- <img src="images/HTML.svg" height="50">&nbsp;
- <img src="images/CSS.svg" height="50">&nbsp;
+ <img src="images/HTML.svg" height="70">&nbsp;
+ <img src="images/CSS.svg" height="70">&nbsp;
  <img src="images/Bootstrap.svg" height="50">&nbsp;
 
  Databases:<br>
