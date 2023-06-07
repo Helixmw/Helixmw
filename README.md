@@ -4,14 +4,10 @@
 
 What I can't fit on my CV :joy:
 
- Programming languages:<br><br>
+ Programming languages and Frameworks:<br><br>
     <img src="images/PHP-logo.svg" height="50">&nbsp;
     <img src="images/js.png" height="50">&nbsp;
      <img src="images/C.png" height="53">&nbsp;
-  
- Frameworks:
- <br>
- <br>
  <img src="images/Nodejs.svg" height="50">&nbsp;
  <img src="images/vue.png" height="50">&nbsp;
  <img src="images/Laravel.svg" height="50">&nbsp;
