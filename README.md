@@ -8,7 +8,7 @@ What I can't fit on my CV :joy:
     <img src="images/PHP-logo.svg" height="50">&nbsp;
     <img src="images/js.png" height="50">&nbsp;
      <img src="images/C.png" height="53">&nbsp;
- <img src="images/Nodejs.svg" height="50">&nbsp;
+ <img src="images/nodejs.png" height="50">&nbsp;
  <img src="images/vue.png" height="50">&nbsp;
  <img src="images/Laravel.svg" height="50">&nbsp;
  <img src="images/NET.svg" height="50">&nbsp;
