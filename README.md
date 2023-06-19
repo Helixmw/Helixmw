@@ -12,7 +12,7 @@ What I can't fit on my CV :joy:
  <img src="images/vue.png" height="50">&nbsp;
  <img src="images/Laravel.svg" height="50">&nbsp;
  <img src="images/NET.svg" height="50">&nbsp;
-  <img src="images/Expressjs.png" height="50">&nbsp;
+  <!--<img src="images/Expressjs.png" height="50">&nbsp;-->
 
  Add-ons to Vue I've tested:
  <br>
