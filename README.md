@@ -2,7 +2,6 @@
 
 :large_blue_circle: Software Engineer and Fullstack Developer from Blantyre, Malawi 🇲🇼<br>
 
-What I can't fit on my CV :joy:
 
  Programming languages and Frameworks:<br><br>
     <img src="images/PHP-logo.svg" height="50">&nbsp;
