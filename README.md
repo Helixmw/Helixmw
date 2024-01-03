@@ -13,7 +13,7 @@
  <img src="images/NET.svg" height="50">&nbsp;
   
 
- Add-ons to Vue I've tested:
+ Add-ons I have tested with vuejs:
  <br>
  <br>
    <img src="images/Electron.svg" height="50">&nbsp;
