@@ -1,4 +1,4 @@
-# Hie! :wave: :grin: My Name is Helix Chipofya
+# Hie! :wave::smiley: My Name is Helix Chipofya
 
 I'm a Software Engineer and Fullstack Web Developer from Blantyre, Malawi :earth_africa: <br><br>
 :mega: Are you hiring? Or like to work with me? you can write to me on LinkedIn (link is on my profile) or <a href="mailto:wonganichipofya98@gmail.com">email me.</a>
