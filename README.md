@@ -20,6 +20,7 @@
      <img src="images/Ionic.svg" height="50">&nbsp;
 
  Design and Markup:<br><br>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helixmw)](https://github.com/anuraghazra/github-readme-stats)
  <img src="images/HTML.svg" height="62">&nbsp;
  <img src="images/CSS.svg" height="62">&nbsp;
  <img src="images/Bootstrap.svg" height="50">&nbsp;
