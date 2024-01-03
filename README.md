@@ -1,7 +1,9 @@
 # Hie! 👋 My Name is Helix Chipofya
 
-:large_blue_circle:I'm a Software Engineer and Fullstack Web Developer from Blantyre, Malawi 🇲🇼<br>
-:briefcase: If you're hiring or would like to work with me you can write on me on Linkedin (link is on my profile) or <a href="mailto:wonganichipofya98@gmail.com">Email me</a>
+I'm a Software Engineer and Fullstack Web Developer from Blantyre, Malawi :earth_africa: <br><br>
+:mega: If you're hiring or would like to work with me you can write on me on Linkedin (link is on my profile) or <a href="mailto:wonganichipofya98@gmail.com">email me.</a>
+<br>
+ :mega: Also click on my <a href="https://helixmw.github.io" target="blank">portfolio link</a> for more!
 
 
  Languages and Frameworks:<br><br>
