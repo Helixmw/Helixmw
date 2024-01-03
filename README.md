@@ -22,7 +22,6 @@
    <img src="images/Electron.svg" height="50">&nbsp;
      <img src="images/Ionic.svg" height="50">&nbsp;
 
- Design and Markup:<br><br>
 
 
 
