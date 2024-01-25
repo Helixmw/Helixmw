@@ -17,12 +17,18 @@ I'm a Software Engineer and Fullstack Web Developer from Blantyre, Malawi :earth
  <img src="images/vue.png" height="50">&nbsp;
  <img src="images/Laravel.svg" height="50">&nbsp;
  <img src="images/NET.svg" height="50">&nbsp;
+
+ Databases:
+  <img src="images/MySQL.svg" height="50">&nbsp;
+  <img src="images/MongoDB.svg" height="50">&nbsp;
  
- Add-ons I have tested with vuejs:
+ Add-ons I have tested with Vue.js:
  <br>
  <br>
    <img src="images/Electron.svg" height="50">&nbsp;
      <img src="images/Ionic.svg" height="50">&nbsp;
+
+  
 
 
 
