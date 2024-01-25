@@ -19,8 +19,11 @@ I'm a Software Engineer and Fullstack Web Developer from Blantyre, Malawi :earth
  <img src="images/NET.svg" height="50">&nbsp;
 
  Databases:
+ <br>
+ <br>
   <img src="images/MySQL.svg.png" height="50">&nbsp;
   <img src="images/MongoDB.svg" height="50">&nbsp;
+  
  
  Add-ons I have tested with Vue.js:
  <br>
