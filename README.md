@@ -26,11 +26,11 @@ I'm a Software Engineer and Fullstack Web Developer from Blantyre, Malawi :earth
   <img src="images/Firebase_Logo.svg" height="50">&nbsp;
   
  
- Add-ons I have tested with Vue.js:
+ <!-- Add-ons I have tested with Vue.js:
  <br>
  <br>
    <img src="images/Electron.svg" height="50">&nbsp;
-     <img src="images/Ionic.svg" height="50">&nbsp;
+     <img src="images/Ionic.svg" height="50">&nbsp; -->
 
   
 
