@@ -21,18 +21,18 @@ I'm a Software Engineer and Fullstack Web Developer from Blantyre, Malawi :earth
  Databases and Frameworks:
  <br>
  <br>
-  <img src="images/new-microsoft-sql-server-logo.png" height="60">&nbsp;
-  <img src="images/MySQL.svg.png" height="60">&nbsp;
-  <img src="images/MongoDB.png" height="60">&nbsp;
-  <img src="images/Firebase_Logo.png" height="60">&nbsp;
-  <img src="images/ef.png" height="60">&nbsp;
+  <img src="images/new-microsoft-sql-server-logo.png" height="63">&nbsp;
+  <img src="images/MySQL.svg.png" height="63">&nbsp;
+  <img src="images/MongoDB.png" height="63">&nbsp;
+  <img src="images/Firebase_Logo.png" height="63">&nbsp;
+  <img src="images/ef.png" height="63">&nbsp;
 
   Development Tools:
   <br>
   <br>
-  <img src="images/vs.png" height="60">&nbsp;
-  <img src="images/vsc.png" height="60">&nbsp;
-  <img src="images/postman.png" height="60">&nbsp;
+  <img src="images/vs.png" height="63">&nbsp;
+  <img src="images/vsc.png" height="63">&nbsp;
+  <img src="images/postman.png" height="63">&nbsp;
   
   
   
