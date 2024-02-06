@@ -21,10 +21,10 @@ I'm a Software Engineer and Fullstack Web Developer from Blantyre, Malawi :earth
  Databases:
  <br>
  <br>
-  <img src="images/MySQL.svg.png" height="50">&nbsp;
-  <img src="images/MongoDB.png" height="50">&nbsp;
-  <img src="images/Firebase_Logo.png" height="50">&nbsp;
-  <img src="images/new-microsoft-sql-server-logo.png" height="50">&nbsp;
+  <img src="images/new-microsoft-sql-server-logo.png" height="60">&nbsp;
+  <img src="images/MySQL.svg.png" height="60">&nbsp;
+  <img src="images/MongoDB.png" height="60">&nbsp;
+  <img src="images/Firebase_Logo.png" height="60">&nbsp;
   
  
  <!-- Add-ons I have tested with Vue.js:
