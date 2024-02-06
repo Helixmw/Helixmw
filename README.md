@@ -9,7 +9,7 @@ I'm a Software Engineer and Fullstack Web Developer from Blantyre, Malawi :earth
  Languages and Frameworks:<br><br>
   <img src="images/HTML.svg" height="62">&nbsp;
  <img src="images/CSS.svg" height="62">&nbsp;
- <img src="images/Bootstrap.svg" height="70">&nbsp;
+ <img src="images/Bootstrap.svg" height="60">&nbsp;
   <img src="images/PHP-logo.svg" height="50">&nbsp;
  <img src="images/js.png"  height="50">&nbsp;
  <img src="images/C.png" height="53">&nbsp;
