@@ -18,7 +18,7 @@ I'm a Software Engineer and Fullstack Web Developer from Blantyre, Malawi :earth
  <img src="images/Laravel.svg" height="60">&nbsp;
  <img src="images/NET.svg" height="60">&nbsp;
 
- Databases:
+ Databases and Frameworks:
  <br>
  <br>
   <img src="images/new-microsoft-sql-server-logo.png" height="60">&nbsp;
