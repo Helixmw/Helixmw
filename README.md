@@ -32,6 +32,7 @@ I'm a Software Engineer and Fullstack Web Developer from Blantyre, Malawi :earth
   <br>
   <img src="images/vs.png" height="60">&nbsp;
   <img src="images/vsc.png" height="60">&nbsp;
+  <img src="images/postman.png" height="60">&nbsp;
   
   
   
