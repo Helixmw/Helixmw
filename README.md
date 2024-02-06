@@ -26,6 +26,14 @@ I'm a Software Engineer and Fullstack Web Developer from Blantyre, Malawi :earth
   <img src="images/MongoDB.png" height="60">&nbsp;
   <img src="images/Firebase_Logo.png" height="60">&nbsp;
   <img src="images/ef.png" height="60">&nbsp;
+
+  Development Tools:
+  <br>
+  <br>
+  <img src="images/vs.png" height="60">&nbsp;
+  <img src="images/vsc.png" height="60">&nbsp;
+  
+  
   
  
  <!-- Add-ons I have tested with Vue.js:
