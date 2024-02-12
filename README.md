@@ -12,6 +12,7 @@ I'm a Software Engineer and Fullstack Web Developer from Blantyre, Malawi :earth
  <img src="images/Bootstrap.svg" height="63">&nbsp;
   <img src="images/PHP-logo.svg" height="63">&nbsp;
  <img src="images/js.png"  height="63">&nbsp;
+ <img src="images/rails.png"  height="63">&nbsp;
  <img src="images/C.png" height="66">&nbsp;
  <img src="images/nodejs.png" height="63">&nbsp;
  <img src="images/vue.png" height="63">&nbsp;
