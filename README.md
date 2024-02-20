@@ -22,6 +22,7 @@ I'm a Software Engineer and Fullstack Web Developer from Blantyre, Malawi :earth
  Databases and Frameworks:
  <br>
  <br>
+  <img src="images/postgresql.png" height="63">&nbsp;
   <img src="images/new-microsoft-sql-server-logo.png" height="63">&nbsp;
   <img src="images/MySQL.svg.png" height="63">&nbsp;
   <img src="images/MongoDB.png" height="63">&nbsp;
