@@ -45,7 +45,7 @@ Frameworks:
 
 ###
 
-Databases and ORMs
+Databases and ORMs:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />&nbsp;
   <img width="12" />
