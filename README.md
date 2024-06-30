@@ -39,18 +39,19 @@ Programming Languages:
 ###
 Frameworks:
 <div align="left">
-
+  
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />&nbsp;
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />&nbsp;
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />&nbsp;
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />&nbsp;
   <img width="12" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />&nbsp;
   <img width="12" />
   <img src="https://cdn.simpleicons.org/rubyonrails/CC0000" height="40" alt="rails logo"  />&nbsp;
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />&nbsp;
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />&nbsp;
+
 </div>
 
 ###
