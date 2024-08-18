@@ -12,7 +12,7 @@ From Blantyre, Malawi 🌍 📍 <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Helixmw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <br>
-(NOTE: The stats only measure public repos)
+(NOTE: The stats measure public repos)
 <br><br>
 
 
