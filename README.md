@@ -14,7 +14,7 @@ I'm a Full Stack Software Developer and Fullstack Web Developer from Blantyre, M
 <br>
 (NOTE: The stats only measure public repos)
 <br><br>
-###
+
 
 Programming Languages:
 <div align="left">
