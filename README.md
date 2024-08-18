@@ -1,6 +1,6 @@
-# Hie! :wave::smiley: My Name is Helix!
+# Hie I'm Helix! I'm a .NET Full Stack Software Engineer
 
-I'm a Full Stack Software Developer and Fullstack Web Developer from Blantyre, Malawi :earth_africa: <br><br>
+From Blantyre, Malawi 🌍 📍 <br><br>
 :mega: Are you hiring? Or like to work with me? you can write to me on LinkedIn (link is on my profile) or <a href="mailto:wonganichipofya98@gmail.com">email me.</a>
 
  :mega: Also click on my <a href="https://helixchipofya.netlify.app" target="blank">portfolio link</a> for more!
