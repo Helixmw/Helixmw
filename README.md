@@ -3,7 +3,7 @@
 From Blantyre, Malawi 🌍 📍 <br><br>
 :mega: Are you hiring? Or like to work with me? you can write to me on LinkedIn (link is on my profile) or <a href="mailto:wonganichipofya98@gmail.com">email me.</a>
 
- :mega: Also click on my <a href="https://helixchipofya.netlify.app" target="blank">portfolio link</a> for more!
+ :mega: Also click on my <a href="https://helixwchipofya.netlify.app" target="blank">portfolio link</a> for more!
 <br><br>
 
 
