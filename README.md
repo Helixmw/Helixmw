@@ -16,7 +16,7 @@ From Blantyre, Malawi 🌍 📍 <br><br>
 <br><br>
 
 
-Programming Languages:
+<!-- Programming Languages:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />&nbsp;
   <img width="12" />
@@ -97,7 +97,7 @@ Design & Development Tools:
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
-###
+### -->
 
 
  <!--Languages and Frameworks:<br><br>
