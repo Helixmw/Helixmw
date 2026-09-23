@@ -1,10 +1,6 @@
 # 👋 Hie I'm Helix! I'm a .NET Full Stack Software Engineer
 
-From Blantyre, Malawi 🌍 📍 <br><br>
-:mega: Are you hiring? Or like to work with me? you can write to me on LinkedIn (link is on my profile) or <a href="mailto:wonganichipofya98@gmail.com">email me.</a>
 
- :mega: Also visit my <a href="https://helixwchipofya.netlify.app" target="blank">official website</a> for more!
-<br><br>
 
 
 <div align="center">
